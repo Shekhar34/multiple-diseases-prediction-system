@@ -1,1 +1,1 @@
-# multiple-diseases-prediction-system
+# multiple-diseases-prediction-system using Machine learning
